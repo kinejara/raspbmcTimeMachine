@@ -1,0 +1,12 @@
+arm_freq=950
+core_freq=450
+gpu_freq=253
+isp_freq=450
+sdram_freq=450
+over_voltage=6
+disable_overscan=1
+gpu_mem=128
+start_file=start_x.elf
+fixup_file=fixup_x.dat
+hdmi_ignore_cec_init=1
+max_usb_current=1
